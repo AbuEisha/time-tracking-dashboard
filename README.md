@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/time-tracking-dashboard)
+- [Solution URL Here](https://github.com/AbuEisha/time-tracking-dashboard)
 - [Live Site URL Here](https://time-tracking-dashboard-live.pages.dev/)
 
 ## My process
